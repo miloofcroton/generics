@@ -7,3 +7,4 @@ edition = "2024"
 needless_return = "allow"
 
 [dependencies]
+num-traits = "0.2.19"
